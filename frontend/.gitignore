@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Backend data (optional if you don't want tasks.json)
+tasks.json
+
+# Build folders
+frontend/build/
+
+# OS files
+.DS_Store
